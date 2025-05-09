@@ -17,8 +17,22 @@
 </script>
 
 
+# NNSA Chatbot Assistant 🤖
+
+<iframe
+  src="https://ocrobotix.github.io/nnsa/pilots/Pilot-Demos.html"
+  width="100%"
+  height="600px"
+  style="border: 1px solid #ccc; border-radius: 8px;"
+  title="NNSA Chatbot"
+></iframe>
+
+<p align="center">
+  <img src="/_static/images/gordon.png" alt="NNSA Chatbot Logo" width="120"/>
+</p>
 
 
+> This AI assistant is aligned with the mission of the U.S. Department of Energy’s National Nuclear Security Administration (NNSA). Use it to ask questions about safety, security, and energy innovation.
 
 
 
