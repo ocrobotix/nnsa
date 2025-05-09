@@ -4,7 +4,7 @@
 
 # NNSA Chatbot Assistant 🤖
 
-> This AI assistant is aligned with the mission of the U.S. Department of Energy’s National Nuclear Security Administration (NNSA). Use it to ask questions about the mission of the NNSA and the blueprint for modernization and success.
+> This AI assistant is aligned with the mission of the U.S. Department of Energy’s National Nuclear Security Administration (NNSA). Use it to ask questions about the agency's challenges ahead and their blueprint for success.
 > 
 
 
