@@ -2,8 +2,46 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+root: intro   # The first/main page
+
+
+parts:
+  - caption: START HERE
+    numbered: False
+    chapters:
+      - file: start_here/aerospace-bluehat.md
+
+
+  - caption: PILOTS
+    numbered: False
+    chapters:
+      - file: pilots/Pilot-Proposals.md
+        sections:
+          - file: appendix/glossary_section_1.md
+          - file: pilots/Pilot1_LLM.md
+          - file: pilots/Pilot2_MLOPS.md
+          - file: pilots/Pilot3_EPA.md
+          - file: pilots/Pilot4_OIP.md
+          - file: pilots/Pilot5_MBSE.md
+      - file: pilots/Pilot-Demos.md
+
+  - caption: FAQs
+    numbered: False
+    chapters:
+      - file: FAQs/what_is_the_nnsa_mission
+      - file: FAQs/what_is_their_blueprint
+      - file: FAQs/how_are_they_executing
+
+
+  - caption: REFERENCES
+    numbered: False
+    chapters:
+      - file: references/glossary.md
+      - file: references/resources.md
+      - file: references/tutorials.md
+
+  - caption: BLOG
+    numbered: False
+    chapters:
+      - file: blog/may.md        #
+

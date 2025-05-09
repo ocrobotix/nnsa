@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: My sample book
-author: The Jupyter Book Community
+title: NNSA Sustainment and Modernization
+author: The Blue Team
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
@@ -30,3 +30,26 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+# Ensures subfolders get copied to _build folder
+sphinx:
+  config:
+    html_extra_path: ["assets"]
+
+
+# Ensure you're only building files in the TOC 
+only_build_toc_files: true
+
+
+exclude_patterns:
+  - _build
+  - Thumbs.db
+  - .DS_Store
+  - "**.ipynb_checkpoints"
+  - ".virtual_documents/**"
+  - "**/.virtual_documents/**"
+  - ".venv/**"
+  - "**/.venv/**"
+
+
+
