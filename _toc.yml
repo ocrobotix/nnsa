@@ -23,7 +23,7 @@ parts:
           - file: pilots/Pilot3_EPA.md
           - file: pilots/Pilot4_OIP.md
           - file: pilots/Pilot5_MBSE.md
-      - file: pilots/Pilot-Demos.md
+      - file: pilots/Demo1.md
 
   - caption: FAQs
     numbered: False

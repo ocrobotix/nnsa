@@ -20,8 +20,9 @@
   data-secondary-color="#E5E8ED"
   data-button-background-color="#0061EB"
   data-starting-message="Hello! I am Noah the NNSA assistant. How can I help you today?"
-  data-logo="/_static/images/gordon.png">
+  data-logo="https://ocrobotix.github.io/nnsa/_static/images/gordon.png">
 </script>
+
 
 
 
