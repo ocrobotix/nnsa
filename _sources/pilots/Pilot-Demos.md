@@ -19,9 +19,10 @@
   data-primary-color="#031B4E"
   data-secondary-color="#E5E8ED"
   data-button-background-color="#0061EB"
-  data-starting-message="Hello! How can I help you today?"
-  data-logo="/_static/chatbot/icons/default-agent.svg">
+  data-starting-message="Hello! I am Noah the NNSA assistant. How can I help you today?"
+  data-logo="/_static/images/gordon.png">
 </script>
+
 
 
 # 
